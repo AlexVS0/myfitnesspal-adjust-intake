@@ -2,6 +2,7 @@
 A GUI application which calculates the user's real TDEE (total daily energy expenditure) based on their weight history input and matching MyFitnessPal intake records.
 
 Written in Python 3.10.1.
+
 Run this application to easily calculate your true energy expenditure instead of relying on calculators which make an (often inaccurate) estimate. 
 
 #### Requires the following user input:
