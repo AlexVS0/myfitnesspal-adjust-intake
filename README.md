@@ -15,6 +15,6 @@ Run this application to easily calculate your true energy expenditure instead of
 
 1. Average daily deficit/surplus.
 2. Weekly rate of weight change.
-3. Goal caloric intake to match the user's desired rate of weight change; maintenance intake (TDEE)
+3. Goal caloric intake to match the user's desired rate of weight change; maintenance intake (TDEE).
 4. Flags when days in the selected date range lack caloric intake data on the user's MyFitnessPal diary.
 5. Flags when more than 40% of days in the selected range lack weight measurements.
